@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FD29ABA6-62A0-461D-91C3-173D8CA2A920"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1B259F3-B329-44FF-BF03-F9A77DD093E6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "List of people(2)/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.DebuggerCommand">
+                  <ActionContent
+                     consoleCommand = "">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+            <Locations>
+               <Location
+                  uuid = "C1B259F3-B329-44FF-BF03-F9A77DD093E6 - 37a04a5cf134f8d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "List_of_people_2_.ViewController.surnameLabel.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "List of people(2)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/salamatmuldashov/Desktop/IOS/List%20of%20people(2)/List%20of%20people(2)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "C1B259F3-B329-44FF-BF03-F9A77DD093E6 - 343f01b4a72ea8c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "List_of_people_2_.ViewController.surnameLabel.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "List of people(2)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/salamatmuldashov/Desktop/IOS/List%20of%20people(2)/List%20of%20people(2)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "C1B259F3-B329-44FF-BF03-F9A77DD093E6 - 6ff19648ff445a21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "List_of_people_2_.ViewController.surnameLabel.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "List of people(2)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/salamatmuldashov/Desktop/IOS/List%20of%20people(2)/List%20of%20people(2)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "C1B259F3-B329-44FF-BF03-F9A77DD093E6 - 21487be327328cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "List_of_people_2_.ViewController.surnameLabel.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "List of people(2)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/salamatmuldashov/Desktop/IOS/List%20of%20people(2)/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "C1B259F3-B329-44FF-BF03-F9A77DD093E6 - 1740fd8e0bc6444c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "List_of_people_2_.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; List_of_people_2_.ViewController"
+                  moduleName = "List of people(2)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/salamatmuldashov/Desktop/IOS/List%20of%20people(2)/List%20of%20people(2)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "C1B259F3-B329-44FF-BF03-F9A77DD093E6 - 25c2386832de0fa7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "List_of_people_2_.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;List_of_people_2_.ViewController&gt;"
+                  moduleName = "List of people(2)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/salamatmuldashov/Desktop/IOS/List%20of%20people(2)/List%20of%20people(2)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
